@@ -11,7 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.26.1",
-    "inquirer": "^8.2.1"
+    "cli-table3": "^0.6.1",
+    "date-fns": "^2.28.0",
+    "inquirer": "^8.2.1",
+    "voca": "^1.4.0"
   },
   "type": "module"
 }
